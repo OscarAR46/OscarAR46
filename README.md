@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Oscar
 **Full Stack Software Engineer** | MSc Computer Science @ University of Sunderland
 
 📍 Bristol, UK
