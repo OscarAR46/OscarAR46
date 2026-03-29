@@ -1,6 +1,6 @@
 **Full Stack Software Engineer** | MSc Computer Science Graduate From UoS
 
-📍 Bristol, UK
+📍UK
 
 ---
 
