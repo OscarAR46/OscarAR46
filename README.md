@@ -16,7 +16,7 @@
 
 **Frameworks & Libraries**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -42,5 +42,5 @@
 
 ## Let's Connect
 
-📧 [oscar.a-r@hotmail.com](mailto:oscar.a-r@hotmail.com)
+[oscar.a-r@hotmail.com](mailto:oscar.a-r@hotmail.com)
 
