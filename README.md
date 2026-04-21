@@ -1,10 +1,10 @@
 **Full Stack Software Engineer** | MSc Computer Science Graduate From UoS
 
-📍UK
+UK
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
