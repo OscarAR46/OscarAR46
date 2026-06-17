@@ -1,4 +1,4 @@
-**Full Stack Software Engineer** | MSc Computer Science Graduate From UoS
+**Full Stack Software Engineer** | MSc Computer Science Graduate
 
 UK
 
@@ -36,10 +36,4 @@ UK
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
----
-
-## Let's Connect
-
-[oscar.a-r@hotmail.com](mailto:oscar.a-r@hotmail.com)
 
